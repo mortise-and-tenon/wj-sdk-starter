@@ -41,4 +41,4 @@ mortnon:
 
 ### Demo
 
-查看源码中的 `demo` 目录中的项目
+查看源码中的 [`demo`](https://gitee.com/mortise-and-tenon/wj-sdk-starter/tree/master/demo) 目录中的项目
