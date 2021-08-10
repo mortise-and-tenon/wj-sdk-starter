@@ -68,6 +68,6 @@ public class SdkConfiguration {
      */
     @Bean
     public WjVendorService wjVendorService(WjService wjService){
-        return new WjVendorServiceImpl(wjService);
+        return wjService.getWjVendorService();
     }
 }
