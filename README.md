@@ -10,7 +10,7 @@ Spring Boot Starter for 腾讯问卷 Java SDK
 <dependency>
     <groupId>fun.mortnon.wj-java-sdk</groupId>
     <artifactId>wj-spring-boot-starter</artifactId>
-    <version>1.0.0</version>
+    <version>${最新发布版本}</version>
 </dependency>
 ```
 
